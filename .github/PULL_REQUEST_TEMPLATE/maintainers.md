@@ -6,3 +6,5 @@ Before merging the PR, comments starting with
 - 🤔 💅 **should** be fixed
 - 💭 **may** be fixed
 - 🎉 celebrate happy things
+
+[Switch to default template](?expand=1)
